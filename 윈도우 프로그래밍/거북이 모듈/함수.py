@@ -51,10 +51,4 @@ t.listen() # 작동시키는 키
 
 
 
-
-
-
-
-
-
 t.mainloop()
